@@ -1,0 +1,16 @@
+PODS:
+  - Gigya-iOSSDK (3.5.6)
+
+DEPENDENCIES:
+  - Gigya-iOSSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Gigya-iOSSDK
+
+SPEC CHECKSUMS:
+  Gigya-iOSSDK: cba0c79eb0bba38208da01ff4a37a143a687eb27
+
+PODFILE CHECKSUM: 09228facd5abd2b9fa9cb69f7a563dd772fc7036
+
+COCOAPODS: 1.5.3

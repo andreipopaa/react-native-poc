@@ -1,0 +1,6 @@
+framework module Pods_ReactPoc {
+  umbrella header "Pods-ReactPoc-umbrella.h"
+
+  export *
+  module * { export * }
+}
